@@ -1,0 +1,4 @@
+﻿  main.c.cpp
+C:\Users\BIT\source\repos\main.c\main.c\main.c.cpp(24,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'DlistNode *'입니다.
+C:\Users\BIT\source\repos\main.c\main.c\main.c.cpp(24,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'DlistNode *'입니다.
+  main.c.vcxproj -> C:\Users\BIT\source\repos\main.c\Debug\main.c.exe
